@@ -1,1 +1,44 @@
 this is a new file
+
+On JBOSS
+1.	What are the prerequisites to install jboss
+2.	In how many ways we can install jboss
+3.	What is the command to install jboss in console mode
+4.	What is the command to install jboss in silent mode
+5.	What is the command to start jboss in standalone mode
+6.	What is the command to start jboss in standalone mode with port offset
+7.	What is the command to start jboss in domain mode
+8.	What are the differences between standalone mode and domain mode
+9.	In how many ways we can deploy applications
+10.	What is the command to deploy application by using jboss cli in domain mode
+11.	What is the important log file in jboss
+12.	What are the import xml files in standalone mode and domain mode
+13.	What is a profile in jboss
+14.	What are different types of profiles in jboss and explain the differences
+15.	In how many ways we can configure jboss with oracle
+16.	What is the jboss cli command to configure JBOSS with oracle
+17.	How to deploy an application in tomcat
+18.	What are the default port numbers of jboss
+19.	What are the default port numbers of tomcat
+20.	How to install Apache in Linux
+21.	What is the connection url for oracle
+22.	In how many ways we configure Apache with jboss
+23.	I am unable to connect to jboss with oracle, how to troubleshoot this issue
+24.	I am unable to start jboss server, how you are going to troubleshoot the issue.
+25.	What is command to check running java process
+26.	What is the command to check ports availability
+27.	What is the command to check hardware details
+28.	In file we can change port numbers in jboss
+29.	Where we can find, what are the server groups that are available.
+30.	In which xml file have, all jvm details in domain mode.
+31.	In how many we can integrate apache and Jboss
+32.	How to integrate apache and jboss using mod_jk
+33.	What is the command to generate Thread dumps and heap dumps
+
+On WebSphere
+34.	What is the command to install IM (Installation Manager_
+35.	What is the imcl command to install WAS 8.5
+36.	What is the imcl command to install IHS
+37.	What is the imcl command to install Plugins
+38.	What is the imcl command to install fixpack
+39.	What are the difference between WAS 7.0 and WAS 8.5
